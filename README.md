@@ -8,7 +8,7 @@ Print the `cards.pdf` or the `cards_small.pdf` file. Cut out the cards and fold 
 
 ## Use custom print settings
 
-Open the `index.html` file in your web browser. Open the print dialog and adjust the print settings.
+Open the `index.html` file in your web browser ([link](https://richi0.github.io/aws-flash-cards/)). Open the print dialog and adjust the print settings.
 
 ## Update the cards
 
